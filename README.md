@@ -17,7 +17,9 @@ This project builds an end-to-end portfolio analytics framework — from raw pri
 `Python` · `pandas` · `numpy` · `scipy` · `matplotlib` · `seaborn` · `yfinance`
 
 ## Sample Visuals
-*(add 2-3 screenshots here, e.g. efficient frontier, fan chart, risk dashboard table)*
+<img width="1349" height="418" alt="Screenshot 2026-08-23 at 12 13 28 AM" src="https://github.com/user-attachments/assets/2cd642b8-a3c5-4bd2-b88b-915ac59d525c" />
+<img width="1349" height="570" alt="Screenshot 2026-08-23 at 12 15 48 AM" src="https://github.com/user-attachments/assets/c87c521a-6a3c-4eac-8c72-c76a1cb12f20" />
+<img width="1376" height="570" alt="Screenshot 2026-08-23 at 12 24 46 AM" src="https://github.com/user-attachments/assets/58eae8d3-94d4-4cdd-ace2-f51f05a8535d" />
 
 ## Notebook
 [View the full analysis](./Portfolio_Risk_Analytics_SN.ipynb)
